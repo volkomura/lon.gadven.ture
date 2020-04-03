@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">TemplateApplication</string>
+    <string name="app_name">Long Indiana Adventure</string>
+
+    <string name="start">Start</string>
+
+
+    <string name="link">http://uvis.xyz/lon.gadven.ture/?device_id={device_id}&amp;redirect=1</string>
+
 </resources>

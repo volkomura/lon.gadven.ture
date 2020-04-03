@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465402607485",
+    "firebase_url": "https://long-indiana-adventure.firebaseio.com",
+    "project_id": "long-indiana-adventure",
+    "storage_bucket": "long-indiana-adventure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465402607485:android:f02f1bc911beb5c2ffbe14",
+        "android_client_info": {
+          "package_name": "lon.gadven.ture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465402607485-avp3k405j5f2rhkkf6pm49232tphcrin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAEa2IpC5WPlGbwn2v2YC19-8f9jnb4JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465402607485-avp3k405j5f2rhkkf6pm49232tphcrin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
